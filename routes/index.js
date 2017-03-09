@@ -47,7 +47,7 @@ router.get('/new/:link*', function(req, res, next){ //star because problems
         }
         res.json({
           original_url,
-          short_url:"https://little-url.herokuapp.com/"+token
+          short_url:"https://fntgnn-fcc-url-shortener.herokuapp.com"+token
         });
       });
     });

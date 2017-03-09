@@ -13,17 +13,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 #### Example usage
 ```
-https://localhost/new/https://www.google.com
+https://fntgnn-fcc-url-shortener.herokuapp.com/new/https://www.google.com
 ```
 Example creation output:
 
 ```
-{ "original_url":"https://www.google.com", "short_url":"http://localhost/8170" }
+{ "original_url":"https://www.google.com", "short_url":"https://fntgnn-fcc-url-shortener.herokuapp.com/8170" }
 ```
 
 ##### Usage
 ```
-https://localhost/8170
+https://fntgnn-fcc-url-shortener.herokuapp.com/8170
 ```
 Will redirect to:
 ```
